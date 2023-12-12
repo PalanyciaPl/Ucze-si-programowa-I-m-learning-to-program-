@@ -9,6 +9,7 @@ public class Animal {
         this.type = type;
         this.size = size;
         this.weight = weight;
+        System.out.println();
     }
 
     @Override
